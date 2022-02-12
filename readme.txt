@@ -12,11 +12,11 @@ Coding employers want to see current work in a coding portfolio. The process not
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation) 
+a. HTML
+b. CSS
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
-
-
+- [License](#MIT license)
 
 ## Installation
 
@@ -45,9 +45,7 @@ The final section on the html was a contact me section which looked at the liste
 
 
 
-CSS
-
-
+CSS section
 This section began with adding a border on the contents of the header as well as a max height.
 
 
@@ -89,7 +87,7 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
-## License
+## MIT license
 
 Copyright (c) 2022 Travis George Nichols
 
